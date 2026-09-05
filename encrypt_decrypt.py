@@ -1,6 +1,5 @@
 """
-Demonstrates:
-1. Symmetric encryption using AES-256-GCM
+1 Symmetric encryption using AES-256-GCM
 2. Asymmetric encryption using RSA-2048-OAEP
 """
 
